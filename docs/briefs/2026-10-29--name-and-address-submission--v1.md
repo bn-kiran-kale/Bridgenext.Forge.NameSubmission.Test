@@ -369,7 +369,7 @@ N/A by design — a seed brief ships only the project scaffold, which has no acc
 ---
 
 ## Approval
-Status: **Pending**
-Date: —
+Status: **Approved**
+Date: 2026-10-29
 ADO Brief: BFT-20
 ADO Brief URL: https://bridgenext-engineering-poc.atlassian.net/browse/BFT-20
